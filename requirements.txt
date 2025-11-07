@@ -1,4 +1,5 @@
 groq
+anthropic
 yt-dlp
 python-dotenv
 google-auth-oauthlib
